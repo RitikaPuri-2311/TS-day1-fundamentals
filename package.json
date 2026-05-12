@@ -1,0 +1,24 @@
+{
+  "name": "ts-day1-fundamentals",
+  "version": "1.0.0",
+  "description": "Hey its me learning TYPESCRIPT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitikaPuri-2311/TS-day1-fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RitikaPuri-2311/TS-day1-fundamentals/issues"
+  },
+  "homepage": "https://github.com/RitikaPuri-2311/TS-day1-fundamentals#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
